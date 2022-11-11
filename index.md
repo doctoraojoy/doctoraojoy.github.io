@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: homepage
----
+--- -->
 
 ## About Me
 
