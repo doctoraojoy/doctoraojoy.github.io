@@ -8,7 +8,7 @@ I am a Ms Student at Fudan University.
 
 ## Research Interests
 
-- **Computer Vision** 
+- **Computer Vision** Open-set Recognition, Domain Generalization
 - **Machine Learning** 
 
 ## News
